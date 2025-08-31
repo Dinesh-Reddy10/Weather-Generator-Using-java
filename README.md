@@ -81,7 +81,9 @@ Understood environment variables for security (API keys).
 Improved debugging skills while handling API errors (401, invalid key).
 
 **👉 Screenshots of outputs**
+
+
 <img width="732" height="167" alt="image" src="https://github.com/user-attachments/assets/b0d08985-5281-4bf8-b0df-d20f65111696" />
 
-<img width="721" height="165" alt="image" src="https://github.com/user-attachments/assets/b223609d-6871-47b8-b2bc-01c3aa466000" />
+<img width="732" height="167" alt="image" src="https://github.com/user-attachments/assets/b223609d-6871-47b8-b2bc-01c3aa466000" />
 
