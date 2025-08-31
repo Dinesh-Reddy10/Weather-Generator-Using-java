@@ -87,3 +87,6 @@ Improved debugging skills while handling API errors (401, invalid key).
 
 <img width="732" height="167" alt="image" src="https://github.com/user-attachments/assets/b223609d-6871-47b8-b2bc-01c3aa466000" />
 
+<img width="732" height="167" alt="image" src="https://github.com/user-attachments/assets/43807e01-b390-4174-af7b-8d2836d8f749" />
+
+
